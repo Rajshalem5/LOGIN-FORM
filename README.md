@@ -2,7 +2,9 @@
 
 ## Live website: https://login-form-alpha-eight.vercel.app/#
 
-[![Twitter](https://twitter.com/ShalemVajrapu)
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/bootstrap-5-login-page/.svg?style=social)](https://twitter.com/ShalemVajrapu)
+
 
 
 ### Responsive Login SignIn SignUp
